@@ -1,0 +1,4 @@
+/FileStore/tables/DonQuixote.txt
+/FileStore/tables/plot_summaries.txt
+/FileStore/tables/search.txt
+/FileStore/tables/movie_metadata-ab497.tsv
